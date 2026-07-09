@@ -21,5 +21,3 @@ Designed a parametric screwdriver using Autodesk Fusion 360 to develop skills in
 ## Files Included
 - Engineering Case Study (PDF)
 - Autodesk Fusion 360 Model (.f3z)
-- STEP Model (.step)
-- Project Images
