@@ -19,6 +19,4 @@ Designed a functional adjustable wrench assembly using Autodesk Fusion 360 to de
 
 ## Files Included
 - Engineering Case Study (PDF)
-- Autodesk Fusion 360 Model (.f3d)
-- STEP Model (.step)
-- Project Images
+- Autodesk Fusion 360 Model (.f3z)
